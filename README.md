@@ -11,4 +11,6 @@ If you use this code in a project, i'd ask that you'll include that i made this 
 
 (by the way, i used apache for the server hosting, and notepad++ for editing(if that helps anyone :S(there really good peaces of sofware :>(10/10 would suggest!))))
 
+ALSO!! you will need to make a file called "uploads", it's the place the files are stored!!
+
 -Roman Wills
