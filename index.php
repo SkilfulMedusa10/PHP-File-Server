@@ -1,18 +1,11 @@
-<!-- If working with "scandir" set array with 2 -->
+<!-- Software by Roman Wills see LICENSE for details -->
 <!-- This is the text at the top of the website -->
 <head>
-  <title>Mom's Photos</title>
+  <title>Change This</title>
 </head>
 
 <body>
-	<p>This is Mom's photo area, don't put anything here that isn't a photo for Mom's jewelry business.</p>
-	<p> </p>
-	<p>To Upload files, click "Choose File", click the file you want, and hit upload, you'll have to do this for each individual file.</p>
-	<p> </p>
-	<p>To Download files, click the "Download" button, and it will download.</p>
-	<p> </p>  
-	<p>Once you've sold out of a piece, click "Delete", and it will be deleted from the server.</p>
-	<p> </p>
+	<p>Change this to what ever you like!</p>
 	<p> </p>
 </body>
 
