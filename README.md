@@ -9,4 +9,6 @@ I will be updateing this file with better CSS code, and an upload system to uplo
 
 If you use this code in a project, i'd ask that you'll include that i made this piece of software :>  
 
+(by the way, i used apache for the server hosting, and notepad++ for editing(if that helps anyone :S(there really good peaces of sofware :>(10/10 would suggest!))))
+
 -Roman Wills
