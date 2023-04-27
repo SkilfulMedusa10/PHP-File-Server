@@ -9,8 +9,8 @@ I will be updateing this file with better CSS code, and an upload system to uplo
 
 If you use this code in a project, i'd ask that you'll include that i made this piece of software :>  
 
-(by the way, i used apache for the server hosting, and notepad++ for editing(if that helps anyone :S(there really good peaces of sofware :>(10/10 would suggest!))))
+by the way, i used apache for the server hosting, and notepad++ for editing. They are both really good pieces of software!
 
-ALSO!! you will need to make a file called "uploads", it's the place the files are stored!!
+ALSO!! you will need to make a folder called "uploads", it's the place the uploaded files are stored!!
 
--Roman Wills
+-SkilfulMedusa10
